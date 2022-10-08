@@ -1,0 +1,38 @@
+users = [
+    {
+        '_id': '1',
+        'name': 'John Kimuli',
+        'photo': 'image.jpeg',
+        'status': 'active',
+        'email': 'john@gmail.com',
+        'password': 'xxxxx',
+        'contact': '0753645756',
+        'account_type': 'Driver',
+        'location': 'Muyenga',
+        'createdAt': '12/06/2022',
+    },
+    {
+        '_id': '2',
+        'name': 'Irene Pamela',
+        'photo': 'image.jpeg',
+        'status': 'active',
+        'email': 'irene@gmail.com',
+        'password': 'xxxxx',
+        'contact': '0753645700',
+        'account_type': 'Passenger',
+        'location': 'Muyenga',
+        'createdAt': '12/06/2022',
+    },
+    {
+        '_id': '3',
+        'name': 'Lamek Mugisha',
+        'photo': 'image.jpeg',
+        'status': 'active',
+        'email': 'lamek@gmail.com',
+        'password': 'xxxxx',
+        'contact': '0753644400',
+        'account_type': 'Business',
+        'location': 'Masaka',
+        'createdAt': '12/06/2022',
+    }
+]
